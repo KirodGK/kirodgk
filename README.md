@@ -11,6 +11,7 @@
 ![Django](https://img.shields.io/badge/Django-4.2-green?logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-yellow?logo=sqlalchemy&logoColor=black)
+![Celery](https://img.shields.io/badge/Celery-tasks-green?logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-persistence-red?logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-message--broker-orange?logo=rabbitmq&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-monitoring-red?logo=prometheus&logoColor=white)
